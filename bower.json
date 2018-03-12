@@ -21,7 +21,7 @@
   ],
   "dependencies": {
     "angular": "1.x",
-    "footable": "~2.0.0"
+    "footable": "https://github.com/peter-holcomb-trifin/FooTable.git"
   },
   "devDependencies": {
     "angular-mocks": "1.x",
